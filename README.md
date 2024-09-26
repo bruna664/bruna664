@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🙉
 
-<!--
-**bruna664/bruna664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e bruna
 
-Here are some ideas to get you started:
+- estou estudando no alura
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaco para minha organizacao e compartilhamento dos meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### voce entrar em contato comigo 📫
+
+ - 0000111605906xsp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/3ZKhtVl2qOcAAAAC/comemora%C3%A7%C3%A3o-yuri-alberto-2022-jogador-do-corinthians-yuri-alberto-comemorando-o-gol.gif)
+
+
+   
